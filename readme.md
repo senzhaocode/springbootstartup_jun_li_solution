@@ -5,6 +5,7 @@ Springboot Startup exercise:
 3. Die CRUD-Rest-Schnittstellen  für das User-Model bereitstellen
 4. Zusätzliche Schnittstellen für das User-Model GET users/search/findByUsername + GET /users/search/deleteByUsername bereitstellen
 5. Passwortverschlüsselung via MD5-Hash
+6. Test from senzhaocode
 
 Sobald alle Test ohne Fehler durchlaufen ist die Übung geschafft
 
